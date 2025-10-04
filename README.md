@@ -1,11 +1,11 @@
-# MCCMD-ScoreDamage
+# hamtore
 防御を貫通しないダメージを与えることのできるライブラリ
 
 対応バージョン: **1.16~**
 
 ---
 ## DL
-[こちら](https://github.com/ChenCMD/MCCMD-ScoreDamage/releases/latest/download/MCCMD-ScoreDamage.zip)をDLしてください
+[こちら](https://github.com/ChenCMD/hamtore/releases/latest/download/hamtore.zip)をDLしてください
 
 ## 依存ライブラリについて
 このライブラリでプレイヤーにダメージを与える場合、赤石愛氏作成の[ScoreToHealth](https://github.com/Ai-Akaishi/ScoreToHealth)を導入する必要があります。
